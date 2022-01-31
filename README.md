@@ -1,6 +1,6 @@
 👋 Hi, I’m James Walden. I'm currently a Data Engineer at YAGRO, as well as the creator and maintainer of the myComp iOS app. 
 
-:tractor: British farming is undergoing a generational shift in its economics and at YAGRO we are bringing expertise in data to help farmers navigate the changing landscape and allow them to harness the power of their data. 
+:tractor: British farming is undergoing a generational shift in its economics and at YAGRO we are bringing our expertise in data to help farmers navigate the changing landscape and allow them to harness the power of their data. 
 
 :iphone: Alongside this, I created the myComp app to allow for more visibility on athletics tracks and competitions in the UK. The myComp mission is to make amateur athletics data 1) easy to find, 2) simple and 3) free to access. I try to update the competitions list as often as possible, but with a full time job this can often get tricky, I'm always looking to collaborate on this project so please see the myComp information repo to find how you can help.
 
