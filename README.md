@@ -1,4 +1,4 @@
-👋 Hi, I’m James Walden. I'm currently a Data Engineer at YAGRO and the creator of iOS app, myComp. 
+👋 Hi, I’m James Walden. I'm currently a Data Engineer at YAGRO and the creator of iOS app, myComp. (I keep my projects elsewhere, so not much to see here)
 
 :tractor: British farming is undergoing a generational shift in its economics, so here at YAGRO we are bringing our expertise in data to help farmers navigate the changing landscape and allow them to harness the power of their data. 
 
