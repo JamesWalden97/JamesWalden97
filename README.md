@@ -1,8 +1,17 @@
-👋 Hi, I’m James Walden. I'm currently a Data Engineer at YAGRO and the creator of iOS app, myComp. (I keep my projects elsewhere, so not much to see here)
+# 👋 Hi, I’m James Walden. 
+### Passionate software engineer, creator of myComp and sports enthusiast.
 
-:tractor: British farming is undergoing a generational shift in its economics, so here at YAGRO we are bringing our expertise in data to help farmers navigate the changing landscape and allow them to harness the power of their data. 
+```yaml
+email: james.m.walden@outlook.com
+located_in: London
+open_to_roles: True
+```
 
-:iphone: Alongside this, I created the myComp app to allow for more visibility on athletics tracks and competitions in the UK. The myComp mission is to make amateur athletics data 1) easy to find, 2) simple and 3) free to access. I try to update the competitions list as often as possible, but with a full time job this can often get tricky, I'm always looking to collaborate on this project so please see the myComp information repo to find how you can help.
+___
+
+:computer: Currently, I am a Data Engineer at Allica Bank, previously at YAGRO, a farmer focussed agri-tech company.
+
+:iphone: I created the myComp app to allow for more visibility on athletics tracks and competitions in the UK. The myComp mission is to make amateur athletics data 1) easy to find, 2) straightforward to understand and 3) free to access. I'm always looking to collaborate on this project so please see the myComp information repo to find how you can help.
 
 :eyes: Ongoing/Future Projects
 - mySeason: an athletics coaching app that will allow for granualar planning of an athlete's training programme, and making that shareable between athletes, coaches and anyone else that is involved in the athlete's success. 
@@ -15,7 +24,7 @@
 
 If you're interested about anything I'm doing, or want to reach out about something else entirely, please find my contact details below:
 
-email: james.m.walden@outlook.com
+
 
 <!---
 JamesWalden97/JamesWalden97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
