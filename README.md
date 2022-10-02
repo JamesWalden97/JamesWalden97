@@ -4,9 +4,8 @@
 ```yaml
 email: james.m.walden@outlook.com
 located_in: London
-open_to_roles: True
+open_to_work: True
 ```
-
 ___
 
 :computer: Currently, I am a Data Engineer at Allica Bank, previously at YAGRO, a farmer focussed agri-tech company.
@@ -22,7 +21,7 @@ ___
 - Athlete Data Portal: a place for athletes to record, store, visualise and analyse their data. 
   - Not enough is done with the competition data available to amateur athletes, there's no central visualisation of anlysis platform allowing them to cut, slice and interrogate their data. Combine this with the wealth of training data that is available from the 1000s of hours athletes put into their training... and you have the opportunity to revolutionise data analytics in amateur athletics.
 
-If you're interested about anything I'm doing, or want to reach out about something else entirely, please find my contact details below:
+If you're interested about anything I'm working on, or something else entirely, please feel free to contact me.
 
 
 
