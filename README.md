@@ -9,6 +9,8 @@ linkedIn: https://www.linkedin.com/in/james-walden-9aaa2714b/
 ```
 ___
 
+Hi, I'm James. I'm a passionate software developer with a focus on enabling data-driven decision making at scale. 
+
 :computer: Currently, I am a Data Engineer at Allica Bank, previously at YAGRO, a farmer focussed agri-tech company.
 
 :iphone: I created the myComp app to allow for more visibility on athletics tracks and competitions in the UK. The myComp mission is to make amateur athletics data 1) easy to find, 2) straightforward to understand and 3) free to access. I'm always looking to collaborate on this project so please see the myComp information repo to find how you can help.
