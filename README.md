@@ -5,6 +5,7 @@
 email: james.m.walden@outlook.com
 located_in: London
 open_to_work: True
+linkedIn: https://www.linkedin.com/in/james-walden-9aaa2714b/
 ```
 ___
 
