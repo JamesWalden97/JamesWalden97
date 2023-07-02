@@ -11,15 +11,15 @@ ___
 
 Hi, I'm James. I'm a software developer with a focus on enabling data-driven decision making at scale. 
 
-:computer: Currently, I am a Data Engineer at Allica Bank, previously at YAGRO, a farmer-focussed agri-tech company.
+:computer: Currently, I am a Data Engineer at QuantumBlack, previously at Allica Bank, and SME lender, and YAGRO, a farmer-focussed agri-tech company.
 
 :iphone: I created the myComp app to allow for more visibility on athletics tracks and competitions in the UK. The myComp mission is to make amateur athletics data 1) easy to find, 2) straightforward to understand and 3) free to access. I'm always looking to collaborate on this project so please see the myComp information repo to find how you can help.
 
 :eyes: Ongoing/Future Projects
 - mySeason: an athletics coaching app that will allow for granualar planning of an athlete's training programme, and making that shareable between athletes, coaches and anyone else that is involved in the athlete's success. 
-  - :runner: Without athletes there are no coaches, mySeason allows you to store all of you athletes and which groups they are in. This means you can record their performances and tailor their training plans to exactly what they need. Keep track of their injury status, training load, upcoming sessions and any goals they are working towards.
+  - :runner: Keep your athletes information safe, up-to-date and easy to find. mySeason allows you to store all of you athletes and which groups they are in. This means you can record their performances and tailor their training plans to exactly what they need. Keep track of their injury status, training load, upcoming sessions and any goals they are working towards.
   - :stopwatch: Trying to accurately keep track of 5+ athletes times during a session can be tricky, mySeason takes the difficulty out of it for you. Simply time your athletes, assign them to the correct time and mySeason will save this for you to analyse with your athlete later. Say goodbye to scrolling through notes to find the session from 6 weeks ago.
-  - :robot: Utilising the power of iOS, mySeason will use the latest image classifciation machine learning algorithms to analyse performances and offer suggestions on technique, your very own virtual technical expert.
+  - :robot: Utilising the power of iOS, mySeason uses the latest image classifciation machine learning algorithms to analyse performances and offer suggestions on technique, your very own virtual technical expert.
 
 - Athlete Data Portal: a place for athletes to record, store, visualise and analyse their data. 
   - Not enough is done with the competition data available to amateur athletes, there's no central visualisation of anlysis platform allowing them to cut, slice and interrogate their data. Combine this with the wealth of training data that is available from the 1000s of hours athletes put into their training... and you have the opportunity to revolutionise data analytics in amateur athletics.
